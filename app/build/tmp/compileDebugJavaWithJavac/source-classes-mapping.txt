@@ -1,0 +1,5 @@
+com/pratyay/etoss/MainActivity.java
+ com.pratyay.etoss.MainActivity
+ com.pratyay.etoss.MainActivity$1
+com/pratyay/etoss/BuildConfig.java
+ com.pratyay.etoss.BuildConfig

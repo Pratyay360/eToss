@@ -1,0 +1,4 @@
+#Wed Oct 14 23:42:27 IST 2020
+base.0=F\:\\eToss\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
