@@ -12,12 +12,12 @@
         "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
-    },
-    {
         "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
         "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
         "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
@@ -28,12 +28,12 @@
         "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\raw_facebook.mp3.flat",
-        "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\raw\\facebook.mp3"
-    },
-    {
         "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\raw_facebook.mp3.flat",
+        "source": "D:\\coding\\android\\eToss\\app\\src\\main\\res\\raw\\facebook.mp3"
     },
     {
         "merged": "D:\\coding\\android\\eToss\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",

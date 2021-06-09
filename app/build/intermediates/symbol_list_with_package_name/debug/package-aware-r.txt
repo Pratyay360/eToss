@@ -889,7 +889,6 @@ id beginning
 id blocking
 id bottom
 id bounce
-id button
 id buttonPanel
 id center
 id center_vertical

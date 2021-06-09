@@ -17,9 +17,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         imgCoin = findViewById(R.id.imgCoin);
-        Button button1 = (Button)this.findViewById(R.id.button);
         final MediaPlayer mp = MediaPlayer.create(this, R.raw.facebook);
-        button1.setOnClickListener(new View.OnClickListener() {
+        imgCoin.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 mp.start();
