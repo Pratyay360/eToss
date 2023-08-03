@@ -1,5 +1,7 @@
 # Etoss: The Fairest Way to Make a Decision
-Android App To Toss A Coin Virtually,a simple Heads/Tails taker minimal design small sized 
+Android App To Toss A Coin Virtually,a simple Heads/Tails taker
+
+
 <img src="img.webp"/>
 
 # Download
