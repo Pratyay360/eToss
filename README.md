@@ -2,7 +2,7 @@
 Android App To Toss A Coin Virtually,a simple Heads/Tails taker
 
 
-<img src="img.webp" width="500"/>
+<img src="https://wekwttnnowtwqzntesch.supabase.co/storage/v1/object/public/projects/etoss.webp?t=2023-08-28T06%3A55%3A19.041Z" width="500"/>
 
 # Download
 <a href="https://github.com/Pratyay360/eToss/releases/download/v2.0/app-release.apk" target="_blank"><img src="https://cdn.pixabay.com/photo/2016/12/18/13/45/download-1915753_960_720.png" height="100"  target="_blank"></a>
